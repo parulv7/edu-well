@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/edu-well/static/css/main.8b3a3972.css",
+    "main.js": "/edu-well/static/js/main.6eeade66.js",
+    "static/js/787.3f5ff353.chunk.js": "/edu-well/static/js/787.3f5ff353.chunk.js",
+    "index.html": "/edu-well/index.html",
+    "main.8b3a3972.css.map": "/edu-well/static/css/main.8b3a3972.css.map",
+    "main.6eeade66.js.map": "/edu-well/static/js/main.6eeade66.js.map",
+    "787.3f5ff353.chunk.js.map": "/edu-well/static/js/787.3f5ff353.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8b3a3972.css",
+    "static/js/main.6eeade66.js"
+  ]
+}
